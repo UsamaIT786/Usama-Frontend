@@ -265,6 +265,12 @@
       flex-direction: column;
       align-items: flex-start;
     }
+
+      #img{
+
+          width: 25%
+
+      }
   
     .hero h2 {
       font-size: 36px;
