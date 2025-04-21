@@ -13,7 +13,7 @@
   
   header {
           background-color: rgba(0, 0, 0, 0.5);
-
+ color:#64ffda;
     padding: 20px 50px;
     display: flex;
     justify-content: space-between;
@@ -37,7 +37,7 @@
   }
   
   nav a {
-    color:black;
+    color:white;
     text-decoration: none;
     transition: color 0.3s ease;
   }
