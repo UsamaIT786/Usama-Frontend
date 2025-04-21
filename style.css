@@ -13,7 +13,6 @@
   
   header {
           background-color: rgba(0, 0, 0, 0.5);
- color:#64ffda;
     padding: 20px 50px;
     display: flex;
     justify-content: space-between;
@@ -25,7 +24,8 @@
   
   header h1 {
     font-size: 28px;
-    color:blue;
+     color:#64ffda;
+
     animation: flicker 3s infinite;
   }
   
@@ -37,13 +37,14 @@
   }
   
   nav a {
-    color:white;
+     color:#64ffda;
+
     text-decoration: none;
     transition: color 0.3s ease;
   }
   
   nav a:hover {
-    color: #64ffda;
+    color: white;
   }
   
   .ticker {
